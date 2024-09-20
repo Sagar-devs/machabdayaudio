@@ -247,7 +247,6 @@ body{
     align-items: center;
     justify-content: space-between;
     margin-bottom: 30px;
-    overflow: scroll;
 }
 
 .container main .playlist .genres .header a,
