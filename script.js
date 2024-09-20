@@ -29,7 +29,7 @@ const songs = [
         title: 'From',
         artist: 'Anjali @MACHA',
         src: 'assets/Audio/song-3.mp3',
-        logo: 'assets/Images/Anjalli.jpg'
+        logo: 'assets/Images/anjalli.jpg'
     }
 ];
 
